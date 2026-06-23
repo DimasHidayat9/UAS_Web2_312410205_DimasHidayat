@@ -99,6 +99,6 @@ Gunakan akun berikut untuk masuk sebagai administrator:
 
 ---
 
-Link demo presenatsi  : https://youtu.be/XVcDnhM9-zI
+Link Demo Presentasi  : https://youtu.be/XVcDnhM9-zI
 
-Link demo proyek      : https://youtu.be/P14ZERXnuSM
+Link Demo Proyek      : https://youtu.be/P14ZERXnuSM
